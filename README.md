@@ -5,7 +5,7 @@
 ##### Duration: 25 september to 25 October 2024
 
 # Overview of the project
-Project: Simple Calculator
+## Project: Simple Calculator
  ![image](https://github.com/user-attachments/assets/0e6f546e-3d8d-4d95-93e0-2409c64a2fdb)
 
 ## Objective:
